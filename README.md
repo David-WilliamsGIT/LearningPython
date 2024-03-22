@@ -23,4 +23,9 @@ Below are the names of the python programs that I have created in this folder (F
     ForLoop.py: Simple for loops in python.<br />
     NestedLoops.py: Simple nested loops in python.<br />
     LoopControleStatements.py: Simple loop controle statements in python.<br />
+    Lists.py: Simple lists in python.<br />
+    2DLists.py: Simple lists in python with 2D arrays.<br />
+    Tuples.py: Simple tuples in python.<br />
+    Sets.py: Simple sets in python.<br />
+    Dictionaries.py: Simple dictionaries in python.<br />
     
