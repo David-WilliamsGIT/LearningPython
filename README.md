@@ -1,10 +1,10 @@
 # LearningPython
-# learning the basics of Python before getting into projects that will help
-# get me into much more advanced programming. I hope to be able to create
-# Cybersecurity tools and possibly other applications in the future.
+learning the basics of Python before getting into projects that will help
+get me into much more advanced programming. I hope to be able to create
+Cybersecurity tools and possibly other applications in the future.
 
 *FirstLessons Folder:*
-# Below are the names of the python programs that I have created in this folder (FirstLessons Folder).
+Below are the names of the python programs that I have created in this folder (FirstLessons Folder).
     HelloWorld.py: Simple hello world in python.
     Variables.py: Simple variables in python.
     MultiAssignment.py: Simple multi-assignment variables in python.
