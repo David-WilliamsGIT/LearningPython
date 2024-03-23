@@ -28,4 +28,8 @@ Below are the names of the python programs that I have created in this folder (F
     Tuples.py: Simple tuples in python.<br />
     Sets.py: Simple sets in python.<br />
     Dictionaries.py: Simple dictionaries in python.<br />
+    IndexOperators.py: Simple index operators in python.<br />
+    Functions.py: Simple functions in python.<br />
+    ReturnStatements.py: Simple return statements in python.<br />
     
+
