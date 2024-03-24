@@ -3,6 +3,8 @@
 learning the basics of Python before getting into projects that will help.<br />
 get me into much more advanced programming. I hope to be able to create.<br />
 Cybersecurity tools and possibly other applications in the future.<br />
+I will be following Youtuber [Bro Code](https://www.youtube.com/@BroCodez) for a lot of this while I<br />
+try to make my own code and add to anything of my own to what he shows.<br />
 
 *FirstLessons Folder:*<br />
 Below are the names of the python programs that I have created in this folder (FirstLessons Folder).<br />
@@ -31,5 +33,15 @@ Below are the names of the python programs that I have created in this folder (F
     IndexOperators.py: Simple index operators in python.<br />
     Functions.py: Simple functions in python.<br />
     ReturnStatements.py: Simple return statements in python.<br />
+    keywordArguments.py: Simple keyword arguments in python.<br />
+    NestedFunctions.py: Simple nested functions in python.<br />
+    Scopes.py: Simple scopes in python. <br />
+    Args.py: Simple arguments in python. <br />
+    Kwargs.py: Simple keyword arguments in python. <br />
+    StringFormats.py: Simple string formats in python. <br />
+    RandomNumbers.py: Simple random numbers in python. <br />
+    Exceptions.py: Simple exception classes in python. <br />
+    FileDetections.py: Simple file detections in python. <br />
+    ReadingFiles.py: Simple reading files in python. <br />
     
 
