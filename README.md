@@ -43,5 +43,9 @@ Below are the names of the python programs that I have created in this folder (F
     Exceptions.py: Simple exception classes in python. <br />
     FileDetections.py: Simple file detections in python. <br />
     ReadingFiles.py: Simple reading files in python. <br />
+    WritingFiles.py: Simple writing files in python. <br />
+    CopyingFiles.py: Simple copying files in python. <br />
+    MoveFiles.py: Simple moving files in python. <br />
+    DeleteFiles.py: Simple deleting files in python. <br />
     
 
