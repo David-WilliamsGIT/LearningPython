@@ -47,5 +47,8 @@ Below are the names of the python programs that I have created in this folder (F
     CopyingFiles.py: Simple copying files in python. <br />
     MoveFiles.py: Simple moving files in python. <br />
     DeleteFiles.py: Simple deleting files in python. <br />
+    Modules.py: Simple module list in python. <br />
+    RockPaperScissorsGame.py: Simple rock paper and scissors game in python. <br />
+    QuizGame.py: Simple quiz game in python. <br />
     
 
