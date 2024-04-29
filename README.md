@@ -1,10 +1,10 @@
-#LearningPython
+<h1>LearningPython</h1>
 <br />
-learning the basics of Python before getting into projects that will help.<br />
-get me into much more advanced programming. I hope to be able to create.<br />
+learning the basics of Python before getting into projects that will help<br />
+get me into much more advanced programming. I hope to be able to create<br />
 Cybersecurity tools and possibly other applications in the future.<br />
 I will be following Youtuber [Bro Code](https://www.youtube.com/@BroCodez) for a lot of this while I<br />
-try to make my own code and add to anything of my own to what he shows.<br />
+try to make my own code and add to anything of my own to what he shows when I can.<br />
 
 *FirstLessons Folder:*<br />
 Below are the names of the python programs that I have created in this folder (FirstLessons Folder).<br />
@@ -59,5 +59,7 @@ Below are the names of the python programs that I have created in this folder (F
     MethodChaining.py: Simple MethodChaining file for testing in python. <br />
     SuperFunctions.py: Simple SuperFunctions file for testing in python. <br />
     AbstractClass.py: Simple AbstractClass file for testing in python. <br />
+    ObjectArguements.py: Simple ObjectArguements file for testing in python. <br />
+
     
 
