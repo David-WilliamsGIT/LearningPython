@@ -5,7 +5,14 @@ get me into much more advanced programming. I hope to be able to create<br />
 Cybersecurity tools and possibly other applications in the future.<br />
 I will be following Youtuber [Bro Code](https://www.youtube.com/@BroCodez) for a lot of this while I<br />
 try to make my own code and add to anything of my own to what he shows when I can.<br />
+<br>
+Disclaimer: All rights of the original are Bro Codes and I use this purely as educational purposes. I only
+add, change or try to make my own code out of some of the originals to practice, learn and try to see
+if I can make something before or during the watching of his videos. Most are a copy of the original code
+he writes.
+<br>
 
+<br>
 *FirstLessons Folder:*<br />
 Below are the names of the python programs that I have created in this folder (FirstLessons Folder).<br />
 <br />
@@ -60,6 +67,13 @@ Below are the names of the python programs that I have created in this folder (F
     SuperFunctions.py: Simple SuperFunctions file for testing in python. <br />
     AbstractClass.py: Simple AbstractClass file for testing in python. <br />
     ObjectArguements.py: Simple ObjectArguements file for testing in python. <br />
+    DuckTyping.py: Simple DuckTyping file for testing in python. <br />
+    WalrusOperator.py: Simple WalrusOperator file for testing in python. <br />
+    FunctionToVariable.py: Simple FunctionToVariable file for testing in python. <br />
+    HigherOrderFunction.py: SimpleHigherOrderFunction file for testing in python. <br />
+    LambdaFucntion.py: Simple LambdaFucntion file for testing in python. <br />
+    
+
 
     
 
