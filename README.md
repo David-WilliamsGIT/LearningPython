@@ -72,6 +72,10 @@ Below are the names of the python programs that I have created in this folder (F
     FunctionToVariable.py: Simple FunctionToVariable file for testing in python. <br />
     HigherOrderFunction.py: SimpleHigherOrderFunction file for testing in python. <br />
     LambdaFucntion.py: Simple LambdaFucntion file for testing in python. <br />
+    SortingIterables.py: Simple SortingIterables file for testing in python. <br />
+    MapFunction.py: Simple MapFunction file for testing in python. <br />
+    FilterFunction.py: Simple FilterFunction file for testing in python. <br />
+    ReduceFunction.py: Simple ReduceFunction file for testing in python. <br /> 
     
 
 
