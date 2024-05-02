@@ -76,6 +76,9 @@ Below are the names of the python programs that I have created in this folder (F
     MapFunction.py: Simple MapFunction file for testing in python. <br />
     FilterFunction.py: Simple FilterFunction file for testing in python. <br />
     ReduceFunction.py: Simple ReduceFunction file for testing in python. <br /> 
+    ListComprehension.py: Simple ListComprehension file for testing in python. <br />
+    DictionaryComprehension.py: Simple DictionaryComprehension file for testing in python. <br />
+    ZipFunction.py: Simple ZipFunction file for testing in python. <br /> 
     
 
 
