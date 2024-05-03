@@ -79,7 +79,10 @@ Below are the names of the python programs that I have created in this folder (F
     ListComprehension.py: Simple ListComprehension file for testing in python. <br />
     DictionaryComprehension.py: Simple DictionaryComprehension file for testing in python. <br />
     ZipFunction.py: Simple ZipFunction file for testing in python. <br /> 
+    PythonModuleOne.py: Python Interpreter file for testing in python. <br />
+    PythonModuleTwo.py: Python Interpreter file for testing in python. <br />
     
+
 
 
     
